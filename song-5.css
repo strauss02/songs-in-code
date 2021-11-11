@@ -1,0 +1,28 @@
+.house {
+  color: blue;
+}
+
+.house .window {
+  color: blue;
+}
+
+.what-i-wear {
+  color: blue;
+}
+
+.streets,
+.trees {
+  color: blue;
+}
+
+.girlfriend {
+  color: blue;
+}
+
+.corvette {
+  color: blue;
+}
+
+.feelings > #me {
+  color: blue;
+}
